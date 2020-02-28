@@ -1,0 +1,50 @@
+Em todos os materiais oficiais de Tormenta RPG foram apresentados vários ofícios diferentes e nenhum deles é realmente muito explorado, ficando espalhados entre muitos livros, revistas e pelo antigo site da editora. Por conta disso nem jogadores nem mestres dispõem de muito esforço para incluí-los dentro do jogo, talvez apenas quando fazem parte de uma classe ou arquétipo já interessante.
+
+O objetivo do Manual do Trabalhador é trazer à luz esses vários ofícios, além de modificar o funcionamento de alguns para habilitar novos estilos de jogo.
+
+Como passo inicial, vejamos quais são todos os ofícios mencionados nos materiais oficiais:
+
+"Tormenta RPG: edição revisada"
+Alquimia
+Alvenaria
+Carpintaria
+Joalheria
+Metalurgia
+Escrita, Escultura ou Pintura
+Cozinheiro, Fazendeiro, Pescador, Estalajadeiro ou Pastor
+"Valkaria, Cidade sob a Deusa"
+Administração
+
+Dividiremos esses ofícios em três categorias: "De criação", "de ocupação" e "de classe". Ofícios de criação são aqueles cujo objetivo principal é fabricar itens. Ofícios de ocupação, por sua vez, são aqueles cujo objetivo principal não é fabricar itens. Ofícios de classe são aqueles que já são bem explorados por uma classe ou talento ou servem unicamente para o espaço onde foram criados, não trataremos deles neste manual.
+
+[Oficios de Criação]
+
+Ofícios de criação foram uma base forte da economia de muitos povos do medievo. Artesãos eram estimados e até as peças mais simples demoravam dias para ficarem prontas. Aventureiros, no entanto, não têm tempo para isso. Um vilão não esperaria um mês para um aventureiro ferreiro terminar sua obra-prima e ir para o combate final com a glória de ter feito as próprias armas.
+
+Para cada um dos ofícios de criação há uma secção de regras similares, mas específicas, em vez de um sistema amplo e com pouca profundidade para todos eles.
+
+Algumas características, porém, todos eles têm em comum:
+
+[Ferramentas e Oficinas]
+
+Ferramentas e oficinas são necessárias para a prática do artesanato no mundo real, e em Arton isso não é muito diferente.
+
+Ferramentas são o equivalente aos kits de artesão presentes nas regras oficiais. Além das regras normais, praticar um ofício de criação sem ferramentas ou uma oficina dobra o tempo necessário para o processo de criação. Você pode até derreter metal em uma fogueira e usar uma pedra para moldar a lâmina, mas será bem mais difícil.
+
+Oficinas são versões fixas das ferramentas. O Manual do Arcano já apresentou um conceito similar com os Laboratórios Arcanos. Oficinas também têm três níveis, elas fornecem um bônus de +2 em testes de ofício para cada nível e permitem a criação em massa de itens.
+
+Para oficinas de nível 1, é possível criar 5 itens por vez, ou seja, no mesmo tempo de um. Nesse caso, a CD dos testes de ofício aumenta em 6. Para oficinas de nível 2, é possível criar 10 itens e a CD aumenta em 12. Para oficinas de nível 3, é possível criar 15 itens e a CD aumenta em 18. Materiais são gastos normalmente, equivalentes à quantidade de itens criados.
+
+Oficinas possuem um custo de aquisição e um custo de manutenção. Se o custo de manutenção não for pago a tempo, a oficina passa a funcionar como um nível mais baixo, até o caso de nível 1, onde passa a funcionar como uma ferramenta. Quando o total que faltou for pago, a oficina retornará ao normal.
+
+As peculiaridades de cada oficina serão detalhadas nas secções de cada ofício.
+
+[Quadro: Negócios]
+
+O manual "Valkaria, Cidade sob a Deusa" apresenta regras para negócios e investimentos ativos. Um desses investimentos é a Oficina, junto da Forja e do Laboratório Alquímico. Para compatibilidade com o que é apresentado lá, a Oficina funciona como uma Oficina nível 2 para um dos ofícios que o personagem dono do negócio possua. O ativo Forja funciona como uma oficina para metalurgia e o ativo Laboratório Alquímico como uma oficina para alquimia. Apesar de não precisar pagar o custo, a manutenção das oficinas permanece equivalente.
+
+[Quadro: Técnicas Arcanas]
+
+O "Manual do Arcano" apresenta os Laboratórios Acanos como grande oficinas dos magos. Para isso, considere uma biblioteca arcana de 3ª categoria como uma oficina de nível 1 para alquimia, e uma de 1ª categoria como uma oficina de nível 2. Adicione o custo de manutenção da oficina ao custo de manutenção do Laboratório Arcano.
+
+A classe "Bruxo" possui o mistério arcano "Caldeirão do Bruxo". O bônus deste mistério acumula com os bônus fornecidos pelas oficinas, mas a habilidade de criar o dobro de itens, não. Adicionalmente, caldeirões funcionam como Ferramentas para alquimia caso o bruxo possua este mistério.
