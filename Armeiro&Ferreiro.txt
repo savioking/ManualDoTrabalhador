@@ -1,0 +1,42 @@
+Para criar uma arma, armadura ou escudo, o personagem necessita juntar três etapas: É necessário uma "forma" do item a ser criado; é necessário o "material" com o qual o item será criado; e por último mas não necessário, há a possibilidade de um "adereço".
+
+A "Forma" é como a receita, o conhecimento dos processos para se fabricar um item, afinal uma adaga é muito diferente de uma espada táurica. Por padrão, um armeiro sabe a Forma de todos os itens que sabe usar, enquanto um ferreiro sabe a forma de todas as armaduras que sabe usar.
+
+Arsenal limitado: Nesta regra opcional, os armeiros conhecem um número de formas de itens igual ao seu valor de inteligência, não podendo serem escolhidas entre itens exóticos ou tecnológicos. As formas destes itens são conhecidas apenas por grandes mestres, gênios inventores ou manuais antigos e precisarão de esforço para serem obtidas.
+
+Perfeccionistas: Nesta regra opcional, os tempos de fabricação são bem maiores. Use caso deseje aplicar um pouco mais de realismo na sua campanha ou se ela compreende intervalos de tempo maiores entre as aventuras. Multiplique todos os tempos de fabricação nas tabelas abaixo por 3. (12 horas são 0,5 dias)
+
+Formas requerem um certo tempo para serem criadas. De acordo com a categoria de arma elas demoram mais ou menos:
+Formas Simples:
+* 9 TO ou menos: 12 horas
+* 10 TO ou mais: 1 dia
+* 30 TO ou mais: 1 dia e 12 horas
+* 50 TO ou mais: 2 dias
+
+Formas de Armas Marciais:
+* 6 TO ou menos: 12 horas
+* 7 TO ou mais: 1 dia
+* 20 TO ou mais: 1 dia e 12 horas
+* 35 TO ou mais: 2 dias
+* 50 TO ou mais: 2 dias e 12 horas
+* 100 TO ou mais: 3 dias
+
+Formas de Armas Exóticas ou Tecnológicas:
+* Menos de 100 TO: 1 dia
+* 100 TO ou mais: 2 dias
+* 200 TO ou mais: 3 dias
+* 500 TO ou mais: 4 dias
+* 1000 TO ou mais: 5 dias
+* 2000 TO ou mais: 6 dias
+* 3000 TO ou mais: 1 semana
+
+Formas de armaduras e escudos também demoram certo tempo para serem criadas, de acordo com a seguinte tabela:
+* Até 10 TO: 12 horas
+* Até 100 TO: 1 dia
+* Até 300 TO: 2 dias
+* Até 1000 TO: 4 dias
+* Acima de 1000 TO: 6 dias
+
+O "Material" é do que o item a ser criado é feito. O Material de um item pode ser "Padrão", onde é utilizado o normal para aquele item (Ferro para adagas, madeira para escudos leves, aço para armaduras completas). Nesse caso o preço do material é equivalente a 1/3 do preço de compra do item. O Material pode ser um dos materiais especiais descritos nas regras oficiais. Nesse caso o preço do material é o preço exato informado.
+
+O "Adereço" é um requesito opcional para a criação de um item. Adereços fornecem características e bônus especiais para o item fabricado.
