@@ -10,14 +10,30 @@ Alvenaria
 Carpintaria
 Joalheria
 Metalurgia
-Escrita, Escultura ou Pintura
+Escultura ou Pintura
 Cozinheiro, Fazendeiro, Pescador, Estalajadeiro ou Pastor
 "Valkaria, Cidade sob a Deusa"
 Administração
+"Manual das Raças"
+Baloeiro ou piloto
+Engenhoqueiro
+Ferreiro
+Cervejeiro
+"Manual do Arcano"
+Minerador
+Boticário
+"Mundos dos Deuses"
+Marinheiro
+Advocacia
+Escrita
+"Guia da Trilogia"
+Armeiro
 
 Dividiremos esses ofícios em três categorias: "De criação", "de ocupação" e "de classe". Ofícios de criação são aqueles cujo objetivo principal é fabricar itens. Ofícios de ocupação, por sua vez, são aqueles cujo objetivo principal não é fabricar itens. Ofícios de classe são aqueles que já são bem explorados por uma classe ou talento ou servem unicamente para o espaço onde foram criados, não trataremos deles neste manual.
 
 [Oficios de Criação]
+
+"Alquimia, Alvenaria, Carpintaria, Joalheria, Metalurgia"
 
 Ofícios de criação foram uma base forte da economia de muitos povos do medievo. Artesãos eram estimados e até as peças mais simples demoravam dias para ficarem prontas. Aventureiros, no entanto, não têm tempo para isso. Um vilão não esperaria um mês para um aventureiro ferreiro terminar sua obra-prima e ir para o combate final com a glória de ter feito as próprias armas.
 
