@@ -2,4 +2,11 @@ Alquimia é uma ciência antiga que muitos confundem com a prática de magia e, 
 
 "Descoberta" está nas materias primas para a criação dos itens alquímicos, sejam eles poções, venenos ou granadas. Uma lista extensiva de possíveis materiais e onde eles podem ser encontrados será listada abaixo. Todos eles possuem origens baseadas no que já sabemos sobre o sistema: criaturas, plantas, minérios, etc. Isso incentiva os personagens a realmente usarem seus ofícios nas campanhas, não apenas como um recurso interpretativo e sem precisar se esforçar tanto para obter resultados satisfatórios.
 
-"Combinação" traz um pequeno meta-jogo para a criação alquímica. Assim como os outros ofícios deste manual, há três tipos de ingredientes que compoem 
+"Combinação" traz um pequeno meta-jogo para a criação alquímica. Assim como os outros ofícios deste manual, há três tipos de ingredientes que compoem
+
+Oficina Nível 1: 1000 TO / Manutenção: 50 TO por mês
+Um quarto com algumas vidrarias, acesso a água e fogo e espaço para armazenar alguns ingredientes. Um ou nenhum empregado.
+Oficina Nível 2: 2000 TO / Manutenção: 100 TO por mês
+Um quarto grande ou pequeno galpão com várias vidrarias e algumas máquinas, acesso a água e fogo e espaço para armazenar muitos ingredientes. De dois a cinco empregados.
+Oficina Nível 3: 4000 TO / Manutenção: 200 TO por mês
+Um grande galpão ou prédio dedicado com inúmeras vidrarias e equipamentos, acesso a água e fogo e um armazém para armazenar quantos ingredientes ou produtos forem necessários.

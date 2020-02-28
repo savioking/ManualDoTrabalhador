@@ -28,6 +28,8 @@ Advocacia
 Escrita
 "Guia da Trilogia"
 Armeiro
+"O Panteão"
+Armadilhas
 
 Dividiremos esses ofícios em três categorias: "De criação", "de ocupação" e "de classe". Ofícios de criação são aqueles cujo objetivo principal é fabricar itens. Ofícios de ocupação, por sua vez, são aqueles cujo objetivo principal não é fabricar itens. Ofícios de classe são aqueles que já são bem explorados por uma classe ou talento ou servem unicamente para o espaço onde foram criados, não trataremos deles neste manual.
 
@@ -64,3 +66,13 @@ O manual "Valkaria, Cidade sob a Deusa" apresenta regras para negócios e invest
 O "Manual do Arcano" apresenta os Laboratórios Acanos como grande oficinas dos magos. Para isso, considere uma biblioteca arcana de 3ª categoria como uma oficina de nível 1 para alquimia, e uma de 1ª categoria como uma oficina de nível 2. Adicione o custo de manutenção da oficina ao custo de manutenção do Laboratório Arcano.
 
 A classe "Bruxo" possui o mistério arcano "Caldeirão do Bruxo". O bônus deste mistério acumula com os bônus fornecidos pelas oficinas, mas a habilidade de criar o dobro de itens, não. Adicionalmente, caldeirões funcionam como Ferramentas para alquimia caso o bruxo possua este mistério.
+
+[Quadro: Qual ofício?]
+
+Basta uma olhada rápida nos manuais de Tormenta RPG para perceber uma variedade grande de ofícios sendo usados como pré-requesitos de classes e talentos, ou como mecânicas destas classes e talentos. Alguns ofícios possuem conceitos muito similares, mas ganham nomes diferentes dependendo de onde são apresentados. Outros possuem o mesmo nome, mas são usados para propósitos diferentes em várias ocasiões.
+
+Para resolver isso, uniremos alguns ofícios repetidos e parecidos para facilitar o uso e entendimento. O ofício (Armeiro) é apresentado no "Manual do Malandro", no "Guia da Trilogia", e no "Manual das Raças" com propósitos diferentes. Uniremos todos esses ofícios em um só, aqui nada muda. O ofício (Armeiro) funciona de maneira idêntica ao ofício (Metalurgia) para criar itens, mas apenas para armas de fogo como instruído no "Manual do Malandro".
+
+O ofício (Ferreiro) é apresentado no "Manual das Raças" como pré-requesito para a classe Campeão das Guildas. Esse ofício será extinto e substituído pelo ofício (Metalurgia). Com relação à classe em si, nada precisa ser mudado, note que o kit oferecido pela "Guilda dos Armeiros" não funciona como uma Ferramenta, ele serve apenas para os propósitos da classe. Estranho? Bom, isso não foi a gente que escreveu!
+
+O ofício (Escrita) é apresentado no "Mundos dos Deuses" como pré-requesito para um talento, além de ser mencionado anteriormente na classe variante "Menestrel". O ofício (Copista) é mencionado apenas no "Manual do Devoto" como pré-requesito para um talento e será incorporado ao ofício (Escrita).
